@@ -1,1 +1,1 @@
-{"0.20": {"activatedMoleculePct": 0.0022879189238871477, "activatedTokens": {"I": 3182, "others": 0}}, "0.00": {"activatedMoleculePct": 0.0035285510164175028, "activatedTokens": {"I": 4917, "others": 14}}}
+{"activatedMoleculePct": {"0.00": 0.0035285510164175028, "0.20": 0.0022879189238871477}, "activatedTokens": {"0.00": [{"token": "I", "type": "atom", "count": 4917}, {"token": "other-atom", "type": "atom", "count": 8}, {"token": "other-branch", "type": "branch", "count": 6}], "0.20": [{"token": "I", "type": "atom", "count": 3182}]}}
