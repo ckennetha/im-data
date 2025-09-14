@@ -1,0 +1,1 @@
+[{"concept": "(", "conceptType": "Token", "conceptTypeGroup": "ring", "metrics": [{"thresh": 0.0, "tPos": 1215122, "precision": 0.9718, "recall": 0.1952, "f1Score": 0.3251}, {"thresh": 0.2, "tPos": 439312, "precision": 0.9958, "recall": 0.0706, "f1Score": 0.1318}], "reviewed": false}]

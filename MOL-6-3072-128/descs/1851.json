@@ -1,0 +1,1 @@
+[{"concept": ".", "conceptType": "Token", "conceptTypeGroup": "disconnection", "metrics": [{"thresh": 0.0, "tPos": 4310, "precision": 0.8814, "recall": 0.3948, "f1Score": 0.5454}, {"thresh": 0.2, "tPos": 2482, "precision": 0.9837, "recall": 0.2274, "f1Score": 0.3694}], "reviewed": false}]

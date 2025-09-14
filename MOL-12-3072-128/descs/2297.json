@@ -1,0 +1,1 @@
+[{"concept": "c", "conceptType": "Token", "conceptTypeGroup": "atom", "metrics": [{"thresh": 0.0, "tPos": 814323, "precision": 0.8433, "recall": 0.0787, "f1Score": 0.1439}, {"thresh": 0.2, "tPos": 416210, "precision": 0.9087, "recall": 0.0402, "f1Score": 0.077}], "reviewed": false}]

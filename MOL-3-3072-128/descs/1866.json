@@ -1,0 +1,1 @@
+[{"concept": "3", "conceptType": "Token", "conceptTypeGroup": "branch", "metrics": [{"thresh": 0.0, "tPos": 585746, "precision": 0.9742, "recall": 0.5838, "f1Score": 0.7301}, {"thresh": 0.2, "tPos": 302159, "precision": 0.9928, "recall": 0.3012, "f1Score": 0.4621}], "reviewed": false}]

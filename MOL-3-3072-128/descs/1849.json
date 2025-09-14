@@ -1,0 +1,1 @@
+[{"concept": "=", "conceptType": "Token", "conceptTypeGroup": "bond", "metrics": [{"thresh": 0.0, "tPos": 798648, "precision": 0.9937, "recall": 0.3346, "f1Score": 0.5006}, {"thresh": 0.2, "tPos": 379751, "precision": 0.9988, "recall": 0.1591, "f1Score": 0.2745}], "reviewed": false}]
