@@ -1,1 +1,1 @@
-[{"concept": "1", "conceptType": "Token", "conceptTypeGroup": "branch", "metrics": [{"thresh": 0.2, "tPos": 363492, "precision": 0.8868, "recall": 0.0891, "f1Score": 0.1619}], "reviewed": false}]
+[{"concept": "1", "conceptType": "Token", "conceptTypeGroup": "ring", "metrics": [{"thresh": 0.2, "tPos": 363492, "precision": 0.88681, "recall": 0.08906, "f1Score": 0.16186}, {"thresh": 0.5, "tPos": 32701, "precision": 0.94512, "recall": 0.00801, "f1Score": 0.01589}], "reviewed": false}]

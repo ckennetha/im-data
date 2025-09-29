@@ -1,1 +1,1 @@
-[{"concept": "[NH3+]", "conceptType": "Token", "conceptTypeGroup": "atom", "metrics": [{"thresh": 0.2, "tPos": 102, "precision": 0.3493, "recall": 0.9714, "f1Score": 0.5139}], "reviewed": false}]
+[{"concept": "[NH3+]", "conceptType": "Token", "conceptTypeGroup": "atom", "metrics": [{"thresh": 0.2, "tPos": 102, "precision": 0.34932, "recall": 0.97143, "f1Score": 0.51385}, {"thresh": 0.5, "tPos": 76, "precision": 0.76, "recall": 0.72381, "f1Score": 0.74146}], "reviewed": false}]
